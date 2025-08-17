@@ -2,7 +2,8 @@
 
 //counting number of characters in a line
 //counting chars till '.' is encountered
-//ignoring spaces wherever needed
+//ignoring spaces wherever needed 
+//git change
 int main(){
     FILE *ipfile; //FILE is a type and ipfile is a file pointer
     FILE *opfile; 
